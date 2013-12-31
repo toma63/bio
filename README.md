@@ -1,6 +1,6 @@
 # bio
 
-A collection of experiemnts with biological sequence data in clojure.
+A collection of experiments with biological sequence data in clojure.
 
 ## Usage
 
